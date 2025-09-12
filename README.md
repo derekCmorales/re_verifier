@@ -1,4 +1,4 @@
-# 🔍 Regex Studio- Herramienta de Expresiones Regulares
+# Regex Studio- Herramienta de Expresiones Regulares
 
 ![regex logo](https://github.com/derekCmorales/re_verifier/blob/main/regex_logo.png)
 
@@ -15,12 +15,12 @@ Una herramienta profesional que combina teoría y práctica para verificar la va
 
 ### Funcionalidades Avanzadas
 
-- ✅ Validación de sintaxis en tiempo real
-- ✅ Resaltado visual de coincidencias con colores
-- ✅ Lista numerada de coincidencias encontradas
-- ✅ Documentación integrada con ejemplos
+- Validación de sintaxis en tiempo real
+- Resaltado visual de coincidencias con colores
+- Lista numerada de coincidencias encontradas
+- Documentación integrada con ejemplos
 
-## 🚀 Instalación Rápida
+## Instalación Rápida
 
 ### Requisitos
 
@@ -42,7 +42,7 @@ pip install PyQt6
 python regex_gui.py
 ```
 
-## 📚 Alfabeto Soportado
+## Alfabeto Soportado
 
 ### Caracteres Básicos
 
@@ -179,7 +179,7 @@ Resultado: ["usuario@ejemplo.com", "admin@test.org"]
 - **Interfaz Fluida**: Sin bloqueos durante el análisis
 - **Memoria Eficiente**: Gestión optimizada de recursos
 
-## 🎯 Casos de Uso
+## Casos de Uso
 
 ### Para Desarrolladores
 
